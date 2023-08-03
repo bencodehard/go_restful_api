@@ -2,7 +2,7 @@
 
 This project is a sample of restful-api project using Golang.<br>
 
-// Go mod<br>
+<b>Go mod</b><br>
 I mod my project by my repository URL.
 
 
